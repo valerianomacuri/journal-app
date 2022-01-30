@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "cloudinary": "^1.28.1",
     "sass": "^1.43.4"
   }
 }
