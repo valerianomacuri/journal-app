@@ -4,7 +4,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## About
 
-Application to create, save, modify and delete notes, where you can also upload images, to access it you have to login, either with an email or with a gmail account. This application was made with React, Javascript, Redux (for state management), Firebase (for authentication), Cloudinary (for uploading images).
+Web App to create, save, modify and delete notes, where you can also upload images, to access it you have to login, either with an email or with a gmail account. (React, Javascript, Redux, Firebase, Cloudinary).
 
 ## Results
 
